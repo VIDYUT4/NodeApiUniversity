@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "fullName": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "password": "123456",
+    "designation": "senior data scientist",
+    "phoneNumber": "1-770-736-8031 x56442",
+    "dob": "1992-06-13",
+    "doj": "2017-04-27",
+    "gender": "Male",
+    "userType": "View",
+    "reportingManagerId": "3"
+  },
+  {
+    "id": 2,
+    "fullName": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "password": "654321",
+    "designation": "senior software engineer",
+    "phoneNumber": "010-692-6593 x09125",
+    "dob": "1990-12-17",
+    "doj": "2019-09-15",
+    "gender": "Male",
+    "userType": "View",
+    "reportingManagerId": "3"
+  }
+]
